@@ -1,0 +1,6 @@
+{
+    "logChannelId": "seu_id_do_canal_de_logs",
+    "ticketCategoryId": "id_da_categoria_dos_tickets",
+    "staffRoleId": "id_do_cargo_de_staff"
+  }
+  
